@@ -1,4 +1,4 @@
-# Mühendsiler için Sanal Staj Ve İş Uygulaması  
+# Mühendisler için Sanal Staj Ve İş Uygulaması  
 
 Bu proje, stajyerlerin veri analizi becerilerini geliştirmelerine yardımcı olmak için tasarlanmıştır. Stajyerler, gerçek dünya veri setlerini kullanarak çeşitli analizler yapacak ve sonuçlarını raporlayacaklar.
 
